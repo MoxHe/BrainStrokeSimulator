@@ -25,6 +25,7 @@ Find_origin origin(boundaries);
 Create_models models(boundaries);  
 Models_operation operation(models);  
 
+// main function
 int main(int argc, char *argv[])  
 {  
     QApplication pro(argc, argv);  
